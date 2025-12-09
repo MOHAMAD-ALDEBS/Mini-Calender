@@ -6,9 +6,9 @@ const year = document.getElementById("year");
 
 const date = new Date();
 
-monthName.innerText = date.toLocaleString("default", { month: "long" });
+monthName.innerText = date.toLocaleString("en", { month: "long" });
 
-dayName.innerText = date.toLocaleString("default", { weekday: "long" });
+dayName.innerText = date.toLocaleString("en", { weekday: "long" });
 
 dayNumber.innerText = date.getDate();
 
