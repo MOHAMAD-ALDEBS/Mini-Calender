@@ -9,6 +9,11 @@ A lightweight calendar app that displays the current date with a clean, responsi
 - 🔢 Day number
 - 🎨 Responsive and modern UI
 
+## Preview
+
+![Mini Calendar Screenshot](.screenshots/ss.png)
+
+
 ## Tech Stack
 
 - **HTML5** - Structure
