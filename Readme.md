@@ -11,7 +11,7 @@ A lightweight calendar app that displays the current date with a clean, responsi
 
 ## Preview
 
-![Mini Calendar Screenshot](screenshots/ss.png)
+![Mini Calendar Screenshot](screenshots/sss.png)
 
 
 ## Tech Stack
